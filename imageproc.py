@@ -9,7 +9,7 @@ import json
 
 # Globals
 
-MIN_SIZE = (50, 50)
+MIN_SIZE = (20, 20)
 IMAGE_SCALE = 2
 HAAR_SCALE = 1.2
 MIN_NEIGHBORS = 2
